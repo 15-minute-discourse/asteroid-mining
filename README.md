@@ -26,7 +26,7 @@ Description:
 
 ---
 
-Bringing Down the Cost of Rare Earth Metals
+## Bringing Down the Cost of Rare Earth Metals
 
 The sources primarily focus on the economic and technological feasibility of asteroid mining for rare metals, with a particular emphasis on platinum-group metals (PGMs). While they don't directly address the impact of bringing down the cost of rare earth metals to near zero on computer design and computational capacity, they provide insights that can help us explore this query.
 
@@ -70,7 +70,7 @@ The sources provide a foundation for understanding the potential of asteroid min
 
 ---
 
-The Impact of Asteroid Mining on Earth's Weight
+## The Impact of Asteroid Mining on Earth's Weight
 
 While the sources highlight the exciting potential of asteroid mining for obtaining valuable resources, they don't directly address the long-term risk of increased weight on Earth's surface due to bringing back heavy rare metals. However, it's possible to examine this query by considering:
 
@@ -86,7 +86,7 @@ However, it's crucial to acknowledge that this assessment is based on current un
 
 ---
 
-Key Players, Interested Entities, and Target Materials in Asteroid Mining
+## Key Players, Interested Entities, and Target Materials in Asteroid Mining
 
 Based on the sources you provided, here is a condensed list of the key players, interested institutions/companies/countries, and the target mining materials in the field of asteroid mining:
 
@@ -134,7 +134,7 @@ Note: This information is based solely on the provided sources. Further research
 
 ---
 
-Potential Risks of Asteroid Mining
+## Potential Risks of Asteroid Mining
 
 The sources you provided offer a comprehensive overview of the potential benefits and challenges of asteroid mining, focusing on economic feasibility, technological advancements, and the abundance of valuable resources in space. While they don't directly address the specific risks you mentioned, they provide some insights that can help us consider these concerns.
 
