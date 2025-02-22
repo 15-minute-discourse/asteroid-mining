@@ -26,6 +26,15 @@ Description:
 
 ---
 
+- [Asteroid Mining: Unlocking a Trillion-Dollar Industry in Space](#asteroid-mining-unlocking-a-trillion-dollar-industry-in-space)
+  - [Bringing Down the Cost of Rare Earth Metals](#bringing-down-the-cost-of-rare-earth-metals)
+  - [The Impact of Asteroid Mining on Earth's Weight](#the-impact-of-asteroid-mining-on-earths-weight)
+  - [Key Players, Interested Entities, and Target Materials in Asteroid Mining](#key-players-interested-entities-and-target-materials-in-asteroid-mining)
+  - [Potential Risks of Asteroid Mining](#potential-risks-of-asteroid-mining)
+
+
+---
+
 ## Bringing Down the Cost of Rare Earth Metals
 
 The sources primarily focus on the economic and technological feasibility of asteroid mining for rare metals, with a particular emphasis on platinum-group metals (PGMs). While they don't directly address the impact of bringing down the cost of rare earth metals to near zero on computer design and computational capacity, they provide insights that can help us explore this query.
